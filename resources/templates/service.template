@@ -1,0 +1,4 @@
+{
+  "name": "{{service_name}}",
+  "description": "{{service_description}}"
+}

@@ -1,0 +1,12 @@
+* This file defines attributes for path-based settings in the repository.
+
+* text=auto
+*.yml text
+*.md text
+*.ts text
+*.sh text
+*.js text
+*.template text
+*.spec.ts text
+*.int.spec.ts text
+*.e2e.spec.ts text
