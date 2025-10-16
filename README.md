@@ -239,10 +239,6 @@ We welcome contributions to SNIPS! This project is part of an academic research 
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](docs/CONTRIBUTING.md).
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ### Academic Use
 
 - ✅ **Free for educational and research purposes**
@@ -251,11 +247,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🎓 Credits
 
-- Mayank Sharma (Team Leader) |  **Contact**: [Shar.mayankofficial@gmail.com] |  **GitHub**: [https://github.com/Shar-mayank0]
-- Aditya Kumar Singh (Software) |  **Contact**: [adiaparmar@gmail.com] |  **GitHub**: [https://github.com/Adiaparmar]
-- Aayush Jha (Communication) |  **Contact**: [aayushjha1911@gmail.com] |  **GitHub**: [https://github.com/aayushjha19]
-- Abhishek Prajapat (Hardware) |  **Contact**: [abhishekprajapati6350@gmail.com] |  **GitHub**: [https://github.com/Abhii-prajapat]
-- Harsh Kumar () |  **Contact**: [] |  **GitHub**: []
+- Mayank Sharma (Team Leader) |  **Contact**: Shar.mayankofficial@gmail.com |  **GitHub**: https://github.com/Shar-mayank0
+- Aditya Kumar Singh (Software) |  **Contact**: adiaparmar@gmail.com |  **GitHub**: https://github.com/Adiaparmar
+- Aayush Jha (Communication) |  **Contact**: aayushjha1911@gmail.com |  **GitHub**: https://github.com/aayushjha19
+- Abhishek Prajapat (Hardware) |  **Contact**: abhishekprajapati6350@gmail.com |  **GitHub**: https://github.com/Abhii-prajapat
+- Harsh Kumar () |  **Contact**:  |  **GitHub**: 
 
 ---
 
