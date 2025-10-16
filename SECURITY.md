@@ -2,7 +2,7 @@
 
 ## Reporting Security Issues
 
-If you discover a security vulnerability in this project, please report it to us via email at [security@example.com](mailto:security@example.com). We will respond as quickly as possible to address the issue.
+If you discover a security vulnerability in this project, please report it to us via email at [security@example.com](mailto:adiaparmar@gmail.com). We will respond as quickly as possible to address the issue.
 
 ## Security Guidelines
 
