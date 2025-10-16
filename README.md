@@ -251,14 +251,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🎓 Credits
 
-**Developed by**: Aditya Parmar
-**Institution**: [Your Institution]
-**Project Type**: Final Year Engineering Project
-**Domain**: Embedded Systems, Wireless Communication, IoT
+- Mayank Sharma (Team Leader) |  **Contact**: [Shar.mayankofficial@gmail.com] |  **GitHub**: [https://github.com/Shar-mayank0]
+- Aditya Kumar Singh (Software) |  **Contact**: [adiaparmar@gmail.com] |  **GitHub**: [https://github.com/Adiaparmar]
+- Aayush Jha (Communication) |  **Contact**: [aayushjha1911@gmail.com] |  **GitHub**: [https://github.com/aayushjha19]
+- Abhishek Prajapat (Hardware) |  **Contact**: [abhishekprajapati6350@gmail.com] |  **GitHub**: [https://github.com/Abhii-prajapat]
+- Harsh Kumar () |  **Contact**: [] |  **GitHub**: []
 
 ---
 
-**📧 Contact**: [Your Email] | **🔗 Project Repository**: [Repository URL]
+ | **🔗 Project Repository**: [Repository URL]
 
 _Last Updated: October 16, 2025_
 
