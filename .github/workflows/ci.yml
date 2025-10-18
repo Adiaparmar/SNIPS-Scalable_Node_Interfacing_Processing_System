@@ -1,4 +1,20 @@
 # name: CI
+name: CI (no-op)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+      - name: No-op
+        run: echo "This workflow is intentionally minimal to avoid YAML parse errors."
 
 # on:
 #   push:
