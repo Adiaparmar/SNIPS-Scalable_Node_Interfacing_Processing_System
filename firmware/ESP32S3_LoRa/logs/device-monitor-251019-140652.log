@@ -1,0 +1,36 @@
+14:06:52.921 > [37m  Error Register: 0x0000
+14:06:52.921 > [0000730 ms] [PASS ] No device errors detected
+14:06:52.967 > [37m[37m
+14:06:52.969 > ============================================================================
+14:06:52.969 >   TEST 8: CLOCK CONFIGURATION
+14:06:52.969 > ============================================================================
+14:06:52.970 > [37m[[37m0000782 ms] [INFO ] Configuring module clock settings...
+14:06:52.971 > [37m [37m Clock Configuration:
+14:06:52.971 >     XTA Trim: 0x12
+14:06:52.971 >     XTB Trim: 0x12
+14:06:52.971 >     Crystal: 32 MHz (external TCXO)
+14:06:52.971 > [0000783 ms] [FAIL ] Clock configuration verification failed
+14:06:53.021 > [37m[37m
+14:06:53.021 > ============================================================================
+14:06:53.021 >   TEST SUMMARY
+14:06:53.021 > ============================================================================
+14:06:53.021 > [37m[37m
+14:06:53.021 >   Test 1 - SPI Communic[37ma[37mtion:      FAIL
+14:06:53.021 >   Test 2 - Register Access:        FAIL
+14:06:53.021 >   Test 3 - Standby Mode:           FAIL
+14:06:53.021 >   Test 4 - TCXO Configuration:     PASS
+14:06:53.021 >   Test 5 - Module Calibration:     PASS
+14:06:53.021 >   Test 6 - Key Registers:          PASS
+14:06:53.021 >   Test 7 - Device Errors:          PASS
+14:06:53.021 > [37m [37m Test 8 - Clock Configuration:    FAIL
+14:06:53.021 > 
+14:06:53.021 >   ╔════════════════════════════════════════════╗
+14:06:53.021 >   ║  SOME TESTS FAILED - CHECK ERRORS ABOVE    ║
+14:06:53.021 >   ╚════[37m[37m════════════════════════════════════════╝
+14:06:53.021 > 
+14:06:53.021 > Total test duration: 837 ms
+14:06:53.021 > 
+14:06:53.021 > ################################################################################
+14:06:53.021 > 
+14:06:53.021 > [0000837 ms] [INFO ] Test sequence completed
+14:06:53.026 > [37m[0000838 ms] [INFO ] To save this output to a file, run: pio device monitor | tee logs/test_output.log
