@@ -1,0 +1,54 @@
+15:39:34.284 > 
+15:39:34.284 > 
+15:39:34.284 > ======================================
+15:39:34.284 > XIAO ESP32S3 - First Upload Test
+15:39:34.284 > ======================================
+15:39:34.284 > Chip Model: ESP32-S3
+15:39:34.284 > Chip Revision: 0
+15:39:34.284 > CPU Frequency: 240 MHz
+15:39:34.284 > Flash Size: 8 MB
+15:39:34.284 > Free Heap Memory: 364 KB
+15:39:34.284 > ======================================
+15:39:34.284 > Setup complete! Board is ready.
+15:39:34.284 > LED will blink every second...
+15:39:34.284 > 
+15:39:34.284 > Heartbeat #1 | LED: ON  | Uptime: 5 seconds
+15:39:35.281 > Heartbeat #2 | LED: OFF | Uptime: 6 seconds
+15:39:36.288 > Heartbeat #3 | LED: ON  | Uptime: 7 seconds
+15:39:37.288 > Heartbeat #4 | LED: OFF | Uptime: 8 seconds
+15:39:38.285 > Heartbeat #5 | LED: ON  | Uptime: 9 seconds
+15:39:39.287 > Heartbeat #6 | LED: OFF | Uptime: 10 seconds
+15:39:40.282 > Heartbeat #7 | LED: ON  | Uptime: 11 seconds
+15:39:41.285 > Heartbeat #8 | LED: OFF | Uptime: 12 seconds
+15:39:42.287 > Heartbeat #9 | LED: ON  | Uptime: 13 seconds
+15:39:43.288 > Heartbeat #10 | LED: OFF | Uptime: 14 seconds
+15:39:44.277 > Heartbeat #11 | LED: ON  | Uptime: 15 seconds
+15:39:45.284 > Heartbeat #12 | LED: OFF | Uptime: 16 seconds
+15:39:46.285 > Heartbeat #13 | LED: ON  | Uptime: 17 seconds
+15:39:47.281 > Heartbeat #14 | LED: OFF | Uptime: 18 seconds
+15:39:48.276 > Heartbeat #15 | LED: ON  | Uptime: 19 seconds
+15:39:49.279 > Heartbeat #16 | LED: OFF | Uptime: 20 seconds
+15:39:50.288 > Heartbeat #17 | LED: ON  | Uptime: 21 seconds
+15:39:51.287 > Heartbeat #18 | LED: OFF | Uptime: 22 seconds
+15:39:52.279 > Heartbeat #19 | LED: ON  | Uptime: 23 seconds
+15:39:53.281 > Heartbeat #20 | LED: OFF | Uptime: 24 seconds
+15:39:54.287 > Heartbeat #21 | LED: ON  | Uptime: 25 seconds
+15:39:55.282 > Heartbeat #22 | LED: OFF | Uptime: 26 seconds
+15:39:56.276 > Heartbeat #23 | LED: ON  | Uptime: 27 seconds
+15:39:57.280 > Heartbeat #24 | LED: OFF | Uptime: 28 seconds
+15:39:58.283 > Heartbeat #25 | LED: ON  | Uptime: 29 seconds
+15:39:59.284 > Heartbeat #26 | LED: OFF | Uptime: 30 seconds
+15:40:00.285 > Heartbeat #27 | LED: ON  | Uptime: 31 seconds
+15:40:01.286 > Heartbeat #28 | LED: OFF | Uptime: 32 seconds
+15:40:02.287 > Heartbeat #29 | LED: ON  | Uptime: 33 seconds
+15:40:03.283 > Heartbeat #30 | LED: OFF | Uptime: 34 seconds
+15:40:04.286 > Heartbeat #31 | LED: ON  | Uptime: 35 seconds
+15:40:05.279 > Heartbeat #32 | LED: OFF | Uptime: 36 seconds
+15:40:06.282 > Heartbeat #33 | LED: ON  | Uptime: 37 seconds
+15:40:07.287 > Heartbeat #34 | LED: OFF | Uptime: 38 seconds
+15:40:08.279 > Heartbeat #35 | LED: ON  | Uptime: 39 seconds
+15:40:09.280 > Heartbeat #36 | LED: OFF | Uptime: 40 seconds
+15:40:10.278 > Heartbeat #37 | LED: ON  | Uptime: 41 seconds
+15:40:11.279 > Heartbeat #38 | LED: OFF | Uptime: 42 seconds
+15:40:12.284 > Heartbeat #39 | LED: ON  | Uptime: 43 seconds
+15:40:13.276 > Heartbeat #40 | LED: OFF | Uptime: 44 seconds
